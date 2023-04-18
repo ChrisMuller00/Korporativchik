@@ -1,2 +1,0 @@
-C:\Users\Admin\source\repos\Регистрация пользователя\Регистрация пользователя\obj\Debug\Регистрация пользователя.csproj.AssemblyReference.cache
-C:\Users\Admin\source\repos\Регистрация пользователя\Регистрация пользователя\obj\Debug\Регистрация пользователя.csproj.CoreCompileInputs.cache
